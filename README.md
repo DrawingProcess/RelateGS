@@ -4,7 +4,7 @@
 
 **WACV 2027**
 
-Seongjun Choi · Sangyoun Lee<sup>†</sup>
+[Seongjun Choi](https://drawingprocess.github.io/) · Sangyoun Lee<sup>†</sup>
 
 Yonsei University · School of Electrical and Electronic Engineering
 
