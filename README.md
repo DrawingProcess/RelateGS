@@ -12,7 +12,7 @@ Yonsei University · School of Electrical and Electronic Engineering
 
 [![Project Page](https://img.shields.io/badge/Project-Page-16A34A)](https://drawingprocess.github.io/RelateGS)
 [![WACV 2027](https://img.shields.io/badge/WACV-2027-6B46C1)](#)
-[![BibTeX](https://img.shields.io/badge/BibTeX-Citation-555555?style=flat)](#citation)
+[![BibTeX](https://img.shields.io/badge/BibTeX-Citation-555555?style=flat)](#-citation)
 
 </div>
 
