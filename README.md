@@ -11,6 +11,7 @@ Yonsei University · School of Electrical and Electronic Engineering
 <sup>†</sup>Corresponding author
 
 [![Project Page](https://img.shields.io/badge/Project-Page-16A34A)](https://drawingprocess.github.io/RelateGS)
+[![ArXiv](https://img.shields.io/badge/arXiv-2610.33868-b31b1b)](http://arxiv.org/abs/2610.33868)
 [![WACV 2027](https://img.shields.io/badge/WACV-2027-6B46C1)](#)
 [![BibTeX](https://img.shields.io/badge/BibTeX-Citation-555555?style=flat)](#-citation)
 
